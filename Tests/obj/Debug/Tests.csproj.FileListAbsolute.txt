@@ -1,0 +1,48 @@
+c:\users\c#user\documents\visual studio 2012\Projects\BlackJackclasses\Tests\bin\Debug\Tests.exe.config
+c:\users\c#user\documents\visual studio 2012\Projects\BlackJackclasses\Tests\bin\Debug\Tests.exe
+c:\users\c#user\documents\visual studio 2012\Projects\BlackJackclasses\Tests\bin\Debug\Tests.pdb
+c:\users\c#user\documents\visual studio 2012\Projects\BlackJackclasses\Tests\bin\Debug\BlackJackclasses.dll
+c:\users\c#user\documents\visual studio 2012\Projects\BlackJackclasses\Tests\bin\Debug\BlackJackclasses.pdb
+c:\users\c#user\documents\visual studio 2012\Projects\BlackJackclasses\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+c:\users\c#user\documents\visual studio 2012\Projects\BlackJackclasses\Tests\obj\Debug\Tests.exe
+c:\users\c#user\documents\visual studio 2012\Projects\BlackJackclasses\Tests\obj\Debug\Tests.pdb
+C:\Users\C#User\Documents\intC#\BlackJackclasses\Tests\bin\Debug\Tests.exe.config
+C:\Users\C#User\Documents\intC#\BlackJackclasses\Tests\obj\Debug\Tests.exe
+C:\Users\C#User\Documents\intC#\BlackJackclasses\Tests\obj\Debug\Tests.pdb
+C:\Users\C#User\Documents\intC#\BlackJackclasses\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Users\C#User\Documents\intC#\BlackJackclasses\Tests\bin\Debug\Tests.exe
+C:\Users\C#User\Documents\intC#\BlackJackclasses\Tests\bin\Debug\Tests.pdb
+C:\Users\C#User\Documents\intC#\BlackJackclasses\Tests\bin\Debug\BlackJackclasses.dll
+C:\Users\C#User\Documents\intC#\BlackJackclasses\Tests\bin\Debug\BlackJackclasses.pdb
+C:\Users\User\Downloads\BlackJackclasses\BlackJackclasses\Tests\bin\Debug\Tests.exe.config
+C:\Users\User\Downloads\BlackJackclasses\BlackJackclasses\Tests\obj\Debug\Tests.exe
+C:\Users\User\Downloads\BlackJackclasses\BlackJackclasses\Tests\obj\Debug\Tests.pdb
+C:\Users\User\Downloads\BlackJackclasses\BlackJackclasses\Tests\bin\Debug\Tests.exe
+C:\Users\User\Downloads\BlackJackclasses\BlackJackclasses\Tests\bin\Debug\Tests.pdb
+C:\Users\User\Downloads\BlackJackclasses\BlackJackclasses\Tests\bin\Debug\BlackJackclasses.dll
+C:\Users\User\Downloads\BlackJackclasses\BlackJackclasses\Tests\bin\Debug\BlackJackclasses.pdb
+C:\Users\User\Downloads\BlackJackclasses\BlackJackclasses\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Users\Korben\Documents\C#Work\BlackJackclassesVamp\Tests\bin\Debug\Tests.exe.config
+C:\Users\Korben\Documents\C#Work\BlackJackclassesVamp\Tests\obj\Debug\Tests.exe
+C:\Users\Korben\Documents\C#Work\BlackJackclassesVamp\Tests\obj\Debug\Tests.pdb
+C:\Users\Korben\Documents\C#Work\BlackJackclassesVamp\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Users\Korben\Documents\C#Work\BlackJackclassesVamp\Tests\bin\Debug\Tests.exe
+C:\Users\Korben\Documents\C#Work\BlackJackclassesVamp\Tests\bin\Debug\Tests.pdb
+C:\Users\Korben\Documents\C#Work\BlackJackclassesVamp\Tests\bin\Debug\BlackJackclasses.dll
+C:\Users\Korben\Documents\C#Work\BlackJackclassesVamp\Tests\bin\Debug\BlackJackclasses.pdb
+C:\Users\Korben\Documents\C#Work\Fail2\BlackJackclassesVamp\Tests\bin\Debug\Tests.exe.config
+C:\Users\Korben\Documents\C#Work\Fail2\BlackJackclassesVamp\Tests\obj\Debug\Tests.exe
+C:\Users\Korben\Documents\C#Work\Fail2\BlackJackclassesVamp\Tests\obj\Debug\Tests.pdb
+C:\Users\Korben\Documents\C#Work\Fail2\BlackJackclassesVamp\Tests\bin\Debug\Tests.exe
+C:\Users\Korben\Documents\C#Work\Fail2\BlackJackclassesVamp\Tests\bin\Debug\Tests.pdb
+C:\Users\Korben\Documents\C#Work\Fail2\BlackJackclassesVamp\Tests\bin\Debug\BlackJackclasses.dll
+C:\Users\Korben\Documents\C#Work\Fail2\BlackJackclassesVamp\Tests\bin\Debug\BlackJackclasses.pdb
+C:\Users\Korben\Documents\C#Work\Fail2\BlackJackclassesVamp\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Users\Korben\Documents\C#Work\BlackJackFinal\BlackJackclassesVamp\Tests\bin\Debug\Tests.exe.config
+C:\Users\Korben\Documents\C#Work\BlackJackFinal\BlackJackclassesVamp\Tests\bin\Debug\Tests.exe
+C:\Users\Korben\Documents\C#Work\BlackJackFinal\BlackJackclassesVamp\Tests\bin\Debug\Tests.pdb
+C:\Users\Korben\Documents\C#Work\BlackJackFinal\BlackJackclassesVamp\Tests\bin\Debug\BlackJackclasses.dll
+C:\Users\Korben\Documents\C#Work\BlackJackFinal\BlackJackclassesVamp\Tests\bin\Debug\BlackJackclasses.pdb
+C:\Users\Korben\Documents\C#Work\BlackJackFinal\BlackJackclassesVamp\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Users\Korben\Documents\C#Work\BlackJackFinal\BlackJackclassesVamp\Tests\obj\Debug\Tests.exe
+C:\Users\Korben\Documents\C#Work\BlackJackFinal\BlackJackclassesVamp\Tests\obj\Debug\Tests.pdb

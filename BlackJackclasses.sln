@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlackJackclasses", "BlackJackclasses\BlackJackclasses.csproj", "{0F231BE2-BAE0-4752-B71C-285A936C7772}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlackJack Console", "Tests\BlackJack Console.csproj", "{5B00E157-F910-4764-8D05-3107AA4531DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlackJackForm", "BlackJackForm\BlackJackForm.csproj", "{831A596A-6DA0-4AAF-953F-D0E71B7E6A0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassTests", "ClassTests\ClassTests.csproj", "{E2A3ACBB-A195-420B-B4C7-CF35E63AF8BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F231BE2-BAE0-4752-B71C-285A936C7772}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F231BE2-BAE0-4752-B71C-285A936C7772}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F231BE2-BAE0-4752-B71C-285A936C7772}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F231BE2-BAE0-4752-B71C-285A936C7772}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B00E157-F910-4764-8D05-3107AA4531DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B00E157-F910-4764-8D05-3107AA4531DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B00E157-F910-4764-8D05-3107AA4531DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B00E157-F910-4764-8D05-3107AA4531DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{831A596A-6DA0-4AAF-953F-D0E71B7E6A0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{831A596A-6DA0-4AAF-953F-D0E71B7E6A0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{831A596A-6DA0-4AAF-953F-D0E71B7E6A0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{831A596A-6DA0-4AAF-953F-D0E71B7E6A0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2A3ACBB-A195-420B-B4C7-CF35E63AF8BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2A3ACBB-A195-420B-B4C7-CF35E63AF8BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2A3ACBB-A195-420B-B4C7-CF35E63AF8BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2A3ACBB-A195-420B-B4C7-CF35E63AF8BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

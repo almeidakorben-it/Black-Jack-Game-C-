@@ -1,0 +1,19 @@
+C:\Users\Korben\Documents\C#Work\BlackJackFinal\BlackJackclassesVamp\Tests\bin\Debug\Tests.exe.config
+C:\Users\Korben\Documents\C#Work\BlackJackFinal\BlackJackclassesVamp\Tests\bin\Debug\Tests.exe
+C:\Users\Korben\Documents\C#Work\BlackJackFinal\BlackJackclassesVamp\Tests\bin\Debug\Tests.pdb
+C:\Users\Korben\Documents\C#Work\BlackJackFinal\BlackJackclassesVamp\Tests\bin\Debug\BlackJackclasses.dll
+C:\Users\Korben\Documents\C#Work\BlackJackFinal\BlackJackclassesVamp\Tests\bin\Debug\BlackJackclasses.pdb
+C:\Users\Korben\Documents\C#Work\BlackJackFinal\BlackJackclassesVamp\Tests\obj\Debug\BlackJack Console.csprojResolveAssemblyReference.cache
+C:\Users\Korben\Documents\C#Work\BlackJackFinal\BlackJackclassesVamp\Tests\obj\Debug\Tests.exe
+C:\Users\Korben\Documents\C#Work\BlackJackFinal\BlackJackclassesVamp\Tests\obj\Debug\Tests.pdb
+C:\Users\C#User\Documents\BlackJackclassesVamp2\Tests\bin\Debug\Tests.exe.config
+C:\Users\C#User\Documents\BlackJackclassesVamp2\Tests\obj\Debug\Tests.exe
+C:\Users\C#User\Documents\BlackJackclassesVamp2\Tests\obj\Debug\Tests.pdb
+C:\Users\User\Downloads\BlackJackclassesVamp3\BlackJackclassesVamp2\Tests\bin\Debug\Tests.exe.config
+C:\Users\User\Downloads\BlackJackclassesVamp3\BlackJackclassesVamp2\Tests\bin\Debug\Tests.exe
+C:\Users\User\Downloads\BlackJackclassesVamp3\BlackJackclassesVamp2\Tests\bin\Debug\Tests.pdb
+C:\Users\User\Downloads\BlackJackclassesVamp3\BlackJackclassesVamp2\Tests\bin\Debug\BlackJackclasses.dll
+C:\Users\User\Downloads\BlackJackclassesVamp3\BlackJackclassesVamp2\Tests\bin\Debug\BlackJackclasses.pdb
+C:\Users\User\Downloads\BlackJackclassesVamp3\BlackJackclassesVamp2\Tests\obj\Debug\BlackJack Console.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\BlackJackclassesVamp3\BlackJackclassesVamp2\Tests\obj\Debug\Tests.exe
+C:\Users\User\Downloads\BlackJackclassesVamp3\BlackJackclassesVamp2\Tests\obj\Debug\Tests.pdb

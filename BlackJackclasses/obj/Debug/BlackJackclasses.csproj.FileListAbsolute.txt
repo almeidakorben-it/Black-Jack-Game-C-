@@ -1,0 +1,50 @@
+c:\users\c#user\documents\visual studio 2012\Projects\BlackJackclasses\BlackJackclasses\bin\Debug\BlackJackclasses.dll
+c:\users\c#user\documents\visual studio 2012\Projects\BlackJackclasses\BlackJackclasses\bin\Debug\BlackJackclasses.pdb
+c:\users\c#user\documents\visual studio 2012\Projects\BlackJackclasses\BlackJackclasses\obj\Debug\BlackJackclasses.dll
+c:\users\c#user\documents\visual studio 2012\Projects\BlackJackclasses\BlackJackclasses\obj\Debug\BlackJackclasses.pdb
+c:\users\c#user\documents\visual studio 2012\Projects\BlackJackclasses\BlackJackclasses\obj\Debug\BlackJackclasses.csprojResolveAssemblyReference.cache
+C:\Users\C#User\Documents\intC#\BlackJackclasses\BlackJackclasses\obj\Debug\BlackJackclasses.csprojResolveAssemblyReference.cache
+C:\Users\C#User\Documents\intC#\BlackJackclasses\BlackJackclasses\obj\Debug\BlackJackclasses.dll
+C:\Users\C#User\Documents\intC#\BlackJackclasses\BlackJackclasses\bin\Debug\BlackJackclasses.dll
+C:\Users\C#User\Documents\intC#\BlackJackclasses\BlackJackclasses\bin\Debug\BlackJackclasses.pdb
+C:\Users\C#User\Documents\intC#\BlackJackclasses\BlackJackclasses\obj\Debug\BlackJackclasses.pdb
+C:\Users\User\Downloads\BlackJackclasses\BlackJackclasses\BlackJackclasses\bin\Debug\BlackJackclasses.dll
+C:\Users\User\Downloads\BlackJackclasses\BlackJackclasses\BlackJackclasses\bin\Debug\BlackJackclasses.pdb
+C:\Users\User\Downloads\BlackJackclasses\BlackJackclasses\BlackJackclasses\obj\Debug\BlackJackclasses.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\BlackJackclasses\BlackJackclasses\BlackJackclasses\obj\Debug\BlackJackclasses.dll
+C:\Users\User\Downloads\BlackJackclasses\BlackJackclasses\BlackJackclasses\obj\Debug\BlackJackclasses.pdb
+C:\Users\Korben\Documents\C#Work\BlackJackclassesVamp\BlackJackclasses\bin\Debug\BlackJackclasses.dll
+C:\Users\Korben\Documents\C#Work\BlackJackclassesVamp\BlackJackclasses\bin\Debug\BlackJackclasses.pdb
+C:\Users\Korben\Documents\C#Work\BlackJackclassesVamp\BlackJackclasses\obj\Debug\BlackJackclasses.csprojResolveAssemblyReference.cache
+C:\Users\Korben\Documents\C#Work\BlackJackclassesVamp\BlackJackclasses\obj\Debug\BlackJackclasses.dll
+C:\Users\Korben\Documents\C#Work\BlackJackclassesVamp\BlackJackclasses\obj\Debug\BlackJackclasses.pdb
+C:\Users\Korben\Documents\C#Work\Fail2\BlackJackclassesVamp\BlackJackclasses\obj\Debug\BlackJackclasses.dll
+C:\Users\Korben\Documents\C#Work\Fail2\BlackJackclassesVamp\BlackJackclasses\bin\Debug\BlackJackclasses.dll
+C:\Users\Korben\Documents\C#Work\Fail2\BlackJackclassesVamp\BlackJackclasses\bin\Debug\BlackJackclasses.pdb
+C:\Users\Korben\Documents\C#Work\Fail2\BlackJackclassesVamp\BlackJackclasses\obj\Debug\BlackJackclasses.pdb
+C:\Users\Korben\Documents\C#Work\BlackJackFinal\BlackJackclassesVamp\BlackJackclasses\bin\Debug\BlackJackclasses.dll
+C:\Users\Korben\Documents\C#Work\BlackJackFinal\BlackJackclassesVamp\BlackJackclasses\bin\Debug\BlackJackclasses.pdb
+C:\Users\Korben\Documents\C#Work\BlackJackFinal\BlackJackclassesVamp\BlackJackclasses\obj\Debug\BlackJackclasses.dll
+C:\Users\Korben\Documents\C#Work\BlackJackFinal\BlackJackclassesVamp\BlackJackclasses\obj\Debug\BlackJackclasses.pdb
+C:\Users\Korben\Documents\C#Work\BlackJackFinal\BlackJackclassesVamp\BlackJackclasses\obj\Debug\BlackJackclasses.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\BlackJackclassesVamp3\BlackJackclassesVamp2\BlackJackclasses\bin\Debug\BlackJackclasses.dll
+C:\Users\User\Downloads\BlackJackclassesVamp3\BlackJackclassesVamp2\BlackJackclasses\bin\Debug\BlackJackclasses.pdb
+C:\Users\User\Downloads\BlackJackclassesVamp3\BlackJackclassesVamp2\BlackJackclasses\obj\Debug\BlackJackclasses.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\BlackJackclassesVamp3\BlackJackclassesVamp2\BlackJackclasses\obj\Debug\BlackJackclasses.dll
+C:\Users\User\Downloads\BlackJackclassesVamp3\BlackJackclassesVamp2\BlackJackclasses\obj\Debug\BlackJackclasses.pdb
+D:\Documents\BlackJackclassesVamp2\BlackJackclassesVamp2\BlackJackclasses\bin\Debug\BlackJackclasses.dll
+D:\Documents\BlackJackclassesVamp2\BlackJackclassesVamp2\BlackJackclasses\bin\Debug\BlackJackclasses.pdb
+D:\Documents\BlackJackclassesVamp2\BlackJackclassesVamp2\BlackJackclasses\obj\Debug\BlackJackclasses.csprojResolveAssemblyReference.cache
+D:\Documents\BlackJackclassesVamp2\BlackJackclassesVamp2\BlackJackclasses\obj\Debug\BlackJackclasses.dll
+D:\Documents\BlackJackclassesVamp2\BlackJackclassesVamp2\BlackJackclasses\obj\Debug\BlackJackclasses.pdb
+D:\Documents\csharp\BlackJackclassesVamp2\BlackJackclassesVamp2\BlackJackclasses\bin\Debug\BlackJackclasses.dll
+D:\Documents\csharp\BlackJackclassesVamp2\BlackJackclassesVamp2\BlackJackclasses\bin\Debug\BlackJackclasses.pdb
+D:\Documents\csharp\BlackJackclassesVamp2\BlackJackclassesVamp2\BlackJackclasses\obj\Debug\BlackJackclasses.csprojResolveAssemblyReference.cache
+D:\Documents\csharp\BlackJackclassesVamp2\BlackJackclassesVamp2\BlackJackclasses\obj\Debug\BlackJackclasses.dll
+D:\Documents\csharp\BlackJackclassesVamp2\BlackJackclassesVamp2\BlackJackclasses\obj\Debug\BlackJackclasses.pdb
+E:\Documents\csharp\BlackJackclassesVamp2\BlackJackclassesVamp2\BlackJackclasses\bin\Debug\BlackJackclasses.dll
+E:\Documents\csharp\BlackJackclassesVamp2\BlackJackclassesVamp2\BlackJackclasses\bin\Debug\BlackJackclasses.pdb
+E:\Documents\csharp\BlackJackclassesVamp2\BlackJackclassesVamp2\BlackJackclasses\obj\Debug\BlackJackclasses.csproj.AssemblyReference.cache
+E:\Documents\csharp\BlackJackclassesVamp2\BlackJackclassesVamp2\BlackJackclasses\obj\Debug\BlackJackclasses.csproj.CoreCompileInputs.cache
+E:\Documents\csharp\BlackJackclassesVamp2\BlackJackclassesVamp2\BlackJackclasses\obj\Debug\BlackJackclasses.dll
+E:\Documents\csharp\BlackJackclassesVamp2\BlackJackclassesVamp2\BlackJackclasses\obj\Debug\BlackJackclasses.pdb
